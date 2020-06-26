@@ -21,7 +21,7 @@ and to install all library in new virtual environment
 use
 ### Install Library
 
-"""
+"""sh
  pip install -r requirement.txt
 """
 this command automatically install all the library for this program you need  to run this program
@@ -30,6 +30,6 @@ After completing this process to run python main.py
 use 
 ## Run Program
 
-"""
+"""sh
  python main.py
 """
